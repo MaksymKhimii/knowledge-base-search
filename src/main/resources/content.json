@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Introduction to Java 25",
+    "summary": "Exploring new features in the latest JDK.",
+    "content": "Java 25 introduces advanced pattern matching and memory management...",
+    "author": "John Doe",
+    "category": "Programming",
+    "status": "PUBLISHED"
+  },
+  {
+    "title": "Elasticsearch Optimization Tips",
+    "summary": "How to make your searches faster.",
+    "content": "Sharding, replicas and proper mapping are key to ES performance...",
+    "author": "Jane Smith",
+    "category": "Databases",
+    "status": "PUBLISHED"
+  },
+  {
+    "title": "Spring Boot 4.0 Architecture",
+    "summary": "Deep dive into Spring 7 and Boot 4.",
+    "content": "The new functional programming model in Spring 7 is revolutionary...",
+    "author": "Dev Expert",
+    "category": "Frameworks",
+    "status": "PUBLISHED"
+  }
+]
